@@ -162,7 +162,9 @@
 ### Activity Graph
 
 <img alt="DragoonT's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DragoonT&bg_color=1F222E&color=F8D866&line=C9A0DC&point=FFFFFF&hide_border=true" />
-t)
+
+<p>
+  <a href="https://discord.com/users/dragoont">
     <img width="40px" src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -178,8 +180,6 @@ t)
     <img width="40px" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
   </a>
 </p>
-
-<br/>
 
 *「 The stars guide those who wander — and I wander with Denia and Tenebria. 」*
 
