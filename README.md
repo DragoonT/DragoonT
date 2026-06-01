@@ -176,6 +176,10 @@
     <img width="40px" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/dragoont_s?igsh=MXB1MzZwZ2x0MHgxaA==">
+    <img width="40px" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DragoonT">
     <img width="40px" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
   </a>
