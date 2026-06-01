@@ -189,4 +189,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=DragoonT&color=C9A0DC&style=flat-square&label=views" alt="Profile views"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C84BFF,100:8B00FF&height=120&section=footer"/>
+
 </div>
