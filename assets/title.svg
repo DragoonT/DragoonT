@@ -1,0 +1,25 @@
+<svg width="500" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF69B4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B00FF;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <mask id="revealMask">
+      <rect id="maskRect" x="-500" y="0" width="500" height="60" fill="white">
+        <animate attributeName="x" from="-500" to="0" dur="2s" fill="freeze" />
+      </rect>
+    </mask>
+  </defs>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+    font-family="Fira Code, monospace" font-size="36" font-weight="700"
+    fill="url(#grad)" filter="url(#glow)" mask="url(#revealMask)">
+    Hey, I'm DragoonT
+  </text>
+</svg>
