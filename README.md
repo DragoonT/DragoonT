@@ -200,9 +200,7 @@
 ### Streak Stats
 
 <img
-  alt="DragoonT's streak"
-  src="https://streak-stats.demolab.com?user=DragoonT&theme=tokyonight&hide_border=true&fire=C9A0DC&ring=C9A0DC&currStreakLabel=C9A0DC"
-  width="495"
+  src="https://streak-stats.demolab.com?user=DragoonT&theme=tokyonight&hide_border=true&fire=C9A0DC&ring=C9A0DC&currStreakLabel=C9A0DC&v=20260603"
 />
 
 ### Activity Graph
