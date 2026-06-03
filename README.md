@@ -55,8 +55,6 @@
 
 ## Now Playing
 
-*Music I code to — open in YouTube to listen.*
-
 [![Lee Sun Hee - I'll Leave You](https://img.shields.io/badge/Lee%20Sun%20Hee-%EA%B7%B8%EB%8C%80%20%EC%86%90%20%EB%86%93%EC%95%84%EC%9A%94-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=Lee+Sun+Hee+그대+손+놓아요)
 [![투앤비 - Love Affair](https://img.shields.io/badge/%ED%88%AC%EC%95%A4%EB%B9%84-%EA%B0%80%EC%A0%B8%EC%84%A0+%EC%95%88%EB%90%98%EB%8A%94+%EB%A7%88%EC%9D%8C-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=투앤비+가져선+안되는+마음)
 
@@ -201,7 +199,11 @@
 
 ### Streak Stats
 
-<img alt="DragoonT's streak" src="https://streak-stats.demolab.com?user=DragoonT&theme=tokyonight&hide_border=true&fire=C9A0DC&ring=C9A0DC&currStreakLabel=C9A0DC&short_numbers=true" width="495"/>
+<img
+  alt="DragoonT's streak"
+  src="https://streak-stats.demolab.com?user=DragoonT&theme=tokyonight&hide_border=true&fire=C9A0DC&ring=C9A0DC&currStreakLabel=C9A0DC"
+  width="495"
+/>
 
 ### Activity Graph
 
