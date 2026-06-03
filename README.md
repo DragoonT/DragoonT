@@ -199,7 +199,7 @@
 
 ### Streak Stats
 
-<img alt="DragoonT's streak" src="https://streak-stats.demolab.com?user=DragoonT&theme=tokyonight&hide_border=true&fire=C9A0DC&ring=C9A0DC&currStreakLabel=C9A0DC&short_numbers=true" width="495"/>
+<img alt="DragoonT's streak" src="https://github-readme-streak-stats-weld-alpha.vercel.app?user=DragoonT&theme=dark&background=45%2C00000000%2C00000000&border=EB545400&stroke=919191&ring=F800FF&fire=9A00FF&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=D200FF&sideLabels=FD7BFF&dates=B292FF" width="495"/>
 
 ### Activity Graph
 
